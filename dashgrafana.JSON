@@ -19,7 +19,7 @@
   "links": [],
   "panels": [
     {
-      "content": "<center><table><td aling=\"center\" rowspan=\"4\" width=350><div class=\"text-center\"><a href=\"http://noc.abtitecnologia.com.br/zabbix/zabbix.php?action=map.view&sysmapid=5\" target=\"_blank\"><img src=\"http://www.abtitecnologia.com.br/wp-content/uploads/2018/06/cropped-logo-ABTEI.png\"></a></tr></td></table>",
+      "content": "<center><table><td aling=\"center\" rowspan=\"4\" width=350><div class=\"text-center\"><a href=\"http://seuzabbixserver/zabbix/zabbix.php?action=map.view&sysmapid=5\" target=\"_blank\"><img src=\"http://www.abtitecnologia.com.br/wp-content/uploads/2018/06/cropped-logo-ABTEI.png\"></a></tr></td></table>",
       "datasource": null,
       "gridPos": {
         "h": 3,
